@@ -27,3 +27,7 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+Abstraktion.iml
+.idea
+.gitignore
